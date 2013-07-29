@@ -1,2 +1,3 @@
-file 2 line 1
-another line
+file 2 line 1 changed
+
+another line changed
