@@ -4,5 +4,6 @@ another line changed
 some duplicate lines coming up...
 
 hello
-goodbye
 hello
+
+one more line at end
