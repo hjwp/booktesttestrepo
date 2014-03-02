@@ -6,3 +6,7 @@ some duplicate lines coming up...
 hello
 
 one more line at end
+add a line with a dupe of existing
+hello
+goodbye
+
